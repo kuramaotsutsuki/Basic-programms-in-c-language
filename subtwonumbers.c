@@ -9,7 +9,7 @@ int main()   //program start
     printf("enter a nuber b");
     scanf("%d", &b);
 
-    print("The sum of the inputted number is %d\n", a+b);
+    print("The subtaction of the inputted number is %d\n", a-b); // showing the output
     
     return 0;  //program end 
 }
